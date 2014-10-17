@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cry:home|Door43 (cry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cry|d43-cry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cry/archive/master.zip|d43-cry.zip]]
+
+**Recent Changes**
+{{changes>ns = cry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cry|Ethnologue data]]
+
